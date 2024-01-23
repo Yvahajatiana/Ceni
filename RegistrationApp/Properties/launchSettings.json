@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "RegistrationApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7215"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30257,
+      "useSSL": false
+    }
+  }
+}
