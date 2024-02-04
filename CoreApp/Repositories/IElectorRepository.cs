@@ -4,6 +4,6 @@ namespace CoreApp.Repositories
 {
     public interface IElectorRepository
     {
-        Task<Elector> CreateElectorAsync(Elector elector);
+        Task CreateElectorAsync(Elector elector);
     }
 }

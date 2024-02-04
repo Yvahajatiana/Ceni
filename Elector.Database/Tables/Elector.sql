@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[Elector]
 (
-    [Id] INT NOT NULL CONSTRAINT PK_Elector PRIMARY KEY, 
+    [Id] INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_Elector PRIMARY KEY, 
     [NameSingleFormat] VARCHAR(200) NOT NULL, 
     [FirstName] VARCHAR(200) NULL, 
     [LastName] VARCHAR(200) NULL, 

@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[District]
 (
-    [Id] INT NOT NULL CONSTRAINT PK_District PRIMARY KEY, 
+    [Id] INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_District PRIMARY KEY, 
     [Name] VARCHAR(100) NOT NULL
 )
