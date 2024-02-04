@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[City]
 (
-    [Id] INT NOT NULL PRIMARY KEY, 
+    [Id] INT NOT NULL CONSTRAINT PK_City PRIMARY KEY, 
     [Name] VARCHAR(100) NOT NULL
 )

@@ -69,9 +69,7 @@
     <Build Include="Tables\Region.sql" />
     <Build Include="Tables\City.sql" />
     <Build Include="Tables\District.sql" />
-    <Build Include="Indexes\CityIndex.sql" />
-    <Build Include="Indexes\DistrictIndex.sql" />
-    <Build Include="Indexes\RegionIndex.sql" />
+    <Build Include="Indexes\CreateElectorIndexes.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SqlSchemaCompare.scmp" />

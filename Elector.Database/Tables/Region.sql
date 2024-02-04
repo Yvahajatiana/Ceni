@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Region]
 (
-    [Id] INT NOT NULL PRIMARY KEY, 
+    [Id] INT NOT NULL CONSTRAINT PK_Region PRIMARY KEY, 
     [Name] VARCHAR(100) NOT NULL
 )

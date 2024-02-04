@@ -1,1 +1,0 @@
-﻿CREATE INDEX idx_city ON [dbo].[Elector](CityId)

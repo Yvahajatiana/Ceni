@@ -1,1 +1,0 @@
-﻿CREATE INDEX idx_district ON [dbo].[Elector](DistrictId)
