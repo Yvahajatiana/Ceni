@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/hajatianayva"><img src="https://api.daily.dev/devcards/v2/I6dkrNyk7IyXvlhHg1Xff.png?r=d81" width="356" alt="Hajatiana Yva's Dev Card"/></a>
 # National Electoral Management (CENI - NEM)
 
 ![Project Logo](link_to_logo_image.png)
